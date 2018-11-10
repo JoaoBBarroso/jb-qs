@@ -3,3 +3,4 @@ node_js:
   - "iojs"
   - "7"
 os: "windows"
+script: ./Tutorial 02 (start)/app.js
